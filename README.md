@@ -12,5 +12,5 @@ A simple Flask app
 * $ flask run
 
 ## Flask recipes
-* **app.py : **  simple hello world flask app
-* **return_json.py : ** return JSON output from a flask app
+* **app.py :**  simple hello world flask app
+* **return_json.py :** return JSON output from a flask app
