@@ -14,3 +14,4 @@ A simple Flask app
 ## Flask recipes
 * **app.py :**  simple hello world flask app
 * **return_json.py :** return JSON output from a flask app
+* **handle_postdata.py :** handle post data in json format
